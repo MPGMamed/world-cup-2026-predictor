@@ -5,13 +5,12 @@ from dash import Dash, html, dcc, Input, Output
 import dash_bootstrap_components as dbc
 
 # ── Load data ──────────────────────────────────────────────────────────────────
-standings   = pd.read_csv("data/group_standings.csv")
-win_prob    = pd.read_csv("data/win_probability.csv")
-scorers     = pd.read_csv("data/top_scorers_prediction.csv")
-bracket     = pd.read_csv("data/tournament_bracket.csv")
-team_stats  = pd.read_csv("data/team_stats.csv")
-predictions = pd.read_csv("data/group_predictions.csv")
-
+standings   = pd.read_csv("group_standings.csv")
+win_prob    = pd.read_csv("win_probability.csv")
+scorers     = pd.read_csv("top_scorers_prediction.csv")
+bracket     = pd.read_csv("tournament_bracket.csv")
+team_stats  = pd.read_csv("team_stats.csv")
+predictions = pd.read_csv("group_predictions.csv")
 # Fix encoding
 scorers['name'] = scorers['name'].str.replace('?', 'é', regex=False)
 standings['advances'] = standings['advances'].astype(bool)

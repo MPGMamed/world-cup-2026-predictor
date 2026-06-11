@@ -186,8 +186,4 @@ GitHub: [@MPGMamed](https://github.com/MPGMamed)
 
 ---
 
-<<<<<<< HEAD
 *Built during the 2026 FIFA World Cup — predictions updated as tournament progresses*
-=======
-*Built during the 2026 FIFA World Cup — predictions updated as tournament progresses*
->>>>>>> 28a27efdc242c9944856b945e8360d58cfd17fb1
