@@ -1,0 +1,4 @@
+Model,CV_Accuracy,Std
+Logistic Regression,0.756,0.028
+Random Forest,0.685,0.054
+XGBoost,0.647,0.089

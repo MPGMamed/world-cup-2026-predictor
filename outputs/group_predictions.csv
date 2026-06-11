@@ -1,0 +1,73 @@
+group,team1,team2,p_team1_win,p_draw,p_team2_win
+A,Mexico,South Africa,77.6,5.0,17.4
+A,South Korea,Czechia,65.4,9.9,24.7
+A,South Korea,Mexico,33.5,22.6,43.9
+A,Czechia,South Africa,52.2,17.4,30.4
+A,Czechia,Mexico,21.1,5.9,73.0
+A,South Africa,South Korea,17.1,5.0,77.9
+B,Canada,Bosnia and Herzegovina,76.0,5.0,19.0
+B,Qatar,Switzerland,27.9,13.9,58.2
+B,Switzerland,Bosnia and Herzegovina,82.6,5.0,12.4
+B,Canada,Qatar,42.6,23.4,34.0
+B,Switzerland,Canada,51.1,18.1,30.8
+B,Bosnia and Herzegovina,Qatar,22.3,7.2,70.5
+C,Brazil,Morocco,55.0,15.8,29.2
+C,Haiti,Scotland,15.2,5.0,79.8
+C,Brazil,Scotland,87.8,5.0,7.2
+C,Morocco,Haiti,91.4,5.0,3.6
+C,Scotland,Brazil,7.2,5.0,87.8
+C,Morocco,Haiti,91.4,5.0,3.6
+D,USA,Paraguay,83.6,5.0,11.4
+D,Australia,Türkiye,55.3,15.6,29.1
+D,USA,Australia,46.0,21.3,32.7
+D,Türkiye,Paraguay,66.6,9.3,24.1
+D,Türkiye,USA,24.6,9.8,65.6
+D,Paraguay,Australia,15.3,5.0,79.7
+E,Germany,Curaçao,92.3,5.0,2.7
+E,Ivory Coast,Ecuador,31.9,19.8,48.3
+E,Germany,Ivory Coast,75.3,5.0,19.7
+E,Ecuador,Curaçao,88.5,5.0,6.5
+E,Ecuador,Germany,25.4,10.7,63.9
+E,Curaçao,Ivory Coast,9.4,5.0,85.6
+F,Netherlands,Japan,42.3,23.7,34.0
+F,Sweden,Tunisia,34.1,23.8,42.1
+F,Netherlands,Sweden,81.8,5.0,13.2
+F,Tunisia,Japan,18.8,5.0,76.2
+F,Japan,Sweden,79.1,5.0,15.9
+F,Tunisia,Netherlands,15.8,5.0,79.2
+G,Belgium,Egypt,60.9,12.4,26.7
+G,Iran,New Zealand,92.0,5.0,3.0
+G,Belgium,Iran,49.5,19.0,31.5
+G,New Zealand,Egypt,4.4,5.0,90.6
+G,Egypt,Iran,32.4,20.7,46.9
+G,New Zealand,Belgium,2.0,5.0,93.0
+H,Spain,Cape Verde,89.8,5.0,5.2
+H,Saudi Arabia,Uruguay,13.0,5.0,82.0
+H,Spain,Saudi Arabia,85.9,5.0,9.1
+H,Uruguay,Cape Verde,87.4,5.0,7.6
+H,Cape Verde,Saudi Arabia,29.7,16.4,53.9
+H,Uruguay,Spain,32.0,20.1,47.9
+I,France,Senegal,53.9,16.4,29.7
+I,Iraq,Norway,27.3,13.1,59.6
+I,France,Iraq,90.7,5.0,4.3
+I,Norway,Senegal,19.1,5.0,75.9
+I,Norway,France,8.9,5.0,86.1
+I,Senegal,Iraq,85.2,5.0,9.8
+J,Argentina,Algeria,76.6,5.0,18.4
+J,Austria,Jordan,82.7,5.0,12.3
+J,Argentina,Austria,65.8,9.7,24.5
+J,Jordan,Algeria,17.7,5.0,77.3
+J,Algeria,Austria,31.7,19.4,48.9
+J,Jordan,Argentina,4.9,5.0,90.1
+K,Portugal,DR Congo,83.9,5.0,11.1
+K,Uzbekistan,Colombia,9.0,5.0,86.0
+K,Portugal,Uzbekistan,88.0,5.0,7.0
+K,Colombia,DR Congo,80.9,5.0,14.1
+K,Colombia,Portugal,33.5,22.6,43.9
+K,DR Congo,Uzbekistan,51.1,18.1,30.8
+L,England,Croatia,33.5,22.7,43.8
+L,Ghana,Panama,30.2,17.2,52.6
+L,England,Ghana,87.6,5.0,7.4
+L,Croatia,Panama,82.6,5.0,12.4
+L,Panama,England,12.2,5.0,82.8
+L,Croatia,Ghana,87.5,5.0,7.5
