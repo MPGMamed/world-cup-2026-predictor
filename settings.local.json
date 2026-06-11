@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import json; nb=json.load\\(open\\('notebooks/code.ipynb','r',encoding='utf-8'\\)\\); print\\(nb['nbformat'], nb['nbformat_minor']\\); print\\(nb.get\\('metadata'\\)\\); print\\(len\\(nb['cells']\\)\\); print\\([c['cell_type'] for c in nb['cells']]\\)\")"
+    ]
+  }
+}
