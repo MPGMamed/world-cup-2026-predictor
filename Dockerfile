@@ -5,9 +5,7 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy app and data directly into the image
-COPY app.py .
-COPY data/ ./data/
+COPY . .
 
 EXPOSE 8050
 
